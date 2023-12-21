@@ -14,9 +14,9 @@ library to recognize handwritten digits accurately.
 
 Import required modules, including Keras for deep learning.
 Load the MNIST dataset using mnist.load_data().
-Preprocess the Data:
 ![9](https://github.com/DataNomadX/Handwritten-Digit-Recognition-using-Python/assets/154113751/aafc4f4f-c4ba-4e8c-812e-638154bae4b4)
 
+Preprocess the Data:
 
 Reshape the image data to add a dimension suitable for CNN input.
 Normalize and preprocess the data for neural network training.
