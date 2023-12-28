@@ -20,7 +20,7 @@ Preprocess the Data:
 
 Reshape the image data to add a dimension suitable for CNN input.
 Normalize and preprocess the data for neural network training.
-# Create the Model:
+## Create the Model:
 
 Develop a CNN model with convolutional and pooling layers.
 Compile the model using the Adadelta optimizer.
@@ -34,7 +34,7 @@ Assess the model's performance on the test dataset.
 Display test loss and accuracy.
 ![6](https://github.com/DataNomadX/Handwritten-Digit-Recognition-using-Python/assets/154113751/c09e39c6-34f0-46e8-bb0b-89b226ab6f60)
 
-## Create GUI for Digit Prediction:
+# Create GUI for Digit Prediction:
 
 Develop a GUI application using Tkinter to draw digits on a canvas.
 Implement a prediction function using the trained model to recognize drawn digits.
@@ -46,6 +46,6 @@ Create a Tkinter-based GUI with a canvas for drawing digits.
 Implement functionality to recognize drawn digits and display results.
 ![11](https://github.com/DataNomadX/Handwritten-Digit-Recognition-using-Python/assets/154113751/145e4831-e170-491b-b70a-238df857b512)
 
-# Conclusion:
+## Conclusion:
 This project successfully combines deep learning techniques with GUI development to create an interactive Handwritten Digit Recognition application.
 The Convolutional Neural Network proves effective for image classification, and the Tkinter-based GUI enhances user experience by allowing digit drawing for real-time recognition.
